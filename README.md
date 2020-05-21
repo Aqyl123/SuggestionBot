@@ -8,4 +8,4 @@ TO START:
 Use `python suggestionBot.py` to start.
 
 
-<img src='https://gyazo.com/348e45432d0b836fde7259571a230872'>
+<img src='https://i.imgur.com/TovOGwl.png'>
