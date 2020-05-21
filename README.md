@@ -6,3 +6,6 @@ TO START:
 - Paste your channel ID on `Line 15` and `Line 17`
 
 Use `python suggestionBot.py` to start.
+
+
+https://gyazo.com/348e45432d0b836fde7259571a230872
